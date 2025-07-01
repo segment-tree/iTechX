@@ -13214,6 +13214,12 @@
         "teach-courses": [
             [
                 "Spring",
+                "2025",
+                "GEMA1010",
+                "Mathematical Analysis II"
+            ],
+            [
+                "Spring",
                 "2023",
                 "GEMA1010",
                 "Mathematical Analysis II"
@@ -16083,7 +16089,7 @@
             ]
         ]
     },
-    "gongyiyang": {
+    "wums1": {
         "name": "龚羿扬",
         "info": []
     }
