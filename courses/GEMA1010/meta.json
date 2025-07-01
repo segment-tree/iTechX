@@ -8,13 +8,16 @@
             "course_id": "GEMA1010.01",
             "department": "信息科学与技术学院",
             "credit": "5",
-            "hours": "80",
-            "prerequisite": "无",
+            "hours": "96",
+            "prerequisite": "数学分析 I",
             "evaluation": "未知",
             "teacher": [
                 "kychen"
             ],
-            "ta": []
+            "ta": [
+                "gongyiyang",
+                "zhangjunfang"
+            ]
         },
         {
             "season": "Spring",
